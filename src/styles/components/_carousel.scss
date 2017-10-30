@@ -169,7 +169,11 @@
 
     }
 }
-
+@media all and (min-width: 480px) and (max-width: 767px) {
+    .carousel {
+        height: 52rem;
+    }  
+}
 
 @media (min-width: $desktop-breakpoint) {
     #app {
