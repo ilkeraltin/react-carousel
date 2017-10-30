@@ -12,7 +12,4 @@ yarn-debug.log*
 yarn-error.log*
 /.changelog
 
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
