@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: "NoaLight","Lucida Grande","Lucida Sans Unicode","Helvetica Neue","Helvetica",verdana,arial,sans-serif;
+    font-size: $m-size;
+}
+button {
+    cursor: pointer; 
+}
+
+button:disabled {
+    cursor: default;
+}
+
+* {
+    outline: none;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
