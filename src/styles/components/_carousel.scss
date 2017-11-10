@@ -222,6 +222,11 @@
             text-indent: -999.9rem;
             transition: all 0.2s linear;
         }
+
+        li:hover {
+            background-color: #ffffff;
+            background-image: none !important
+        }
         
         .active {
             background: $active-indicator;
